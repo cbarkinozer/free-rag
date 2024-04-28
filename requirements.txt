@@ -1,0 +1,12 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+python-multipart==0.0.9
+PyPDF2==3.0.1
+python-docx==1.1.0
+langchain==0.1.16
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+langchain-google-genai==1.0.2
+python-dotenv==1.0.1
+# UI
+streamlit==1.33.0

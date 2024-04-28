@@ -1,0 +1,192 @@
+Önsöz
+Başlangıçta yatırım fonları vardı ve bu iyiydi. Ancak satış ücretleri ve giderleri çok yüksekti. Daha sonra daha iyi olan komisyonsuz fonlar geldi. Satış ücretini ortadan kaldırdılar ancak hâlâ yönetim ücretlerinin, vergilerin ve aktif yönetimin getirdiği işlem yükünün yükünü taşıyorlardı. Daha sonra ücretleri, vergileri ve işlem maliyetlerini büyük ölçüde azaltan “endeks fonları” geldi. Çok çok iyi. Aslında Joel’in düşünmenizi isteyeceği şey, endeks fonu+’dır; buradaki “artı”, hisse senedi sepetinize yalnızca düşük değerlemelerle satış yapan iyi işletmelerin dahil edilmesinden gelir. Ve onları bulmanın kolay bir yolu vardır.
+
+Elbette herkes tanımı gereği ortalamaları geçemez. Ama Joel’in tavsiyelerine uyan sabırlı insanların zamanla ortalamadan iyi olacağını tahmin ediyorum. Ve eğer milyonlarca insan bu stratejiyi benimserse (Vanguard: lütfen acele et ve bunun gibi düşük fiyatlı bir fon sun), iki şey olacak. İlk olarak, bu şekilde yatırım yapmanın avantajı azalıcak ama kaybolmayacak. İkincisi, borsa değerlemeleri biraz daha rasyonel hale gelecek ve sermaye tahsis sürecimizi biraz daha verimli hale getirecek.
+
+Giriş
+Eğer gerçekten marketi altüst etmek istiyorsanız akademikler ve profesyoneller size yardımcı olamaz, bunu kendiniz yapmalısınız.
+
+Sihirli formül, basit, mantıklı, düşük riskli, marketi altüst edebileceğiniz, profesyonel ve akademikleri büyük bir farkla geçebileceğiniz bir yöntem. Bu formül yıllardır çalışıyor ve herkes bildikten sonra da çalışmaya devam edecek. Formülün kullanımı kolay olmasına ve fazla zamanınızı almamasına rağmen, yalnızca neden işe yaradığını tam olarak anlamak için çaba gösterirseniz işinize yarayacaktır.
+
+Yol boyunca şunları öğreneceksiniz:
+• Borsa nasıl görüntülenir?
+• Başarı neden neredeyse tüm bireysel ve profesyonel yatırımcıların elinden kaçıyor?
+• Uygun fiyatlarla iyi şirketler nasıl bulunur?
+• Piyasayı tek başınıza nasıl yenebilirsiniz?
+
+Daha yüksek düzeyde finansal eğitime sahip olanlar için bir Ek bölümü ekledim, ancak insanların bu kitapta bulunan yöntemleri anlayıp uygulayabilmeleri için ekleri okumasına veya anlamasına gerek yok.
+
+1. Bölüm
+Joel oğlu Matt ile konuşur ve ona 1000 dolar değerindeki şirketleri 500 dolardayken aldığını sonra fiyatı arttığında sattığını söyler. Peki neden 1000 dolarlık bir şirket 500 dolara satılır ki? Bunun cevabını söylemek için bu kitabı yazıyorum. Kim olursanız olun kazandığınız paranın bir kısmı ile yatırım yapmalısınız. Para kazanma arzunuz olmasa dahi ileride yaşlandığınızda bu paraya ihtiyacınız olacak.
+
+2. Bölüm
+Başlamak zor bir iştir. Yatırım yapmak için önce birikim yapmalısınız. Akla ilk gelen şey elinize geçen parayı hemen yastığın altına koymaktır. Ancak bu para bir süre sonra geldiğinizde artmaz hatta azalır. İnsan sayısı artar, şirketler büyür ve para ihtiyacı artar, devletler para basar bu yüzden de paranın değeri azalır. 1 altın 100 dolar ediyorsa ve 100 dolar daha basarsınız ama rezervinizdeki altın hala 1 taneyse artık 1 altını almak için 200 dolar vermeniz gerekir. Bu yüzden başka bir yöntem düşünülmelidir.
+
+Paranızı bankalara kullanması için verebilirsiniz. Mevduat denen bu yöntemde paranıza diyelim 1 ay boyunca bankalara verirsiniz ve bu süre boyunca dokunmazsınız karşılığında o parayla kazandıklarının bir kısmını size verirler. Burada risk düşüktür bu yüzden kazanç düşüktür ve uzun vadede o para yine enflasyondan dolayı değer kaybedecektir.
+
+O zaman bankaya değil başkalarına borç verelim. Multimilyon dolarlık şirketler veya devletler böylece halktan borç alabilirler. Daha çok faiz verirler ancak risk de daha çoktur.
+
+Yıllık %6 getiri varsayılan risksiz getiri oranı olarak kabul edilir.
+
+3. Bölüm
+Başka ne yapılabilir? Şirketler halka açılırlar. Yani ellerindeki parayı hisse senedi denen kağıtlara denk olacak şekilde bölerler. Bu kağıtların yarısının biraz fazlasını ellerinde tutarlar ve geri kalanı dağıtırlar. Böylece şirkete dair söz hakkını elinde tutarlar. Şirket çalışmaya devam ettikçe elindeki para miktarı değişir. Bir sene geçer, şirket para kazanır ve harcar. Vergiler elinden çıkarıldığında elinde kalan para kazancıdır ve bu sefer piyasadaki senet sayısına böldüğünüzde senedin değeri para değişimine göre artar veya azalır.
+
+Bir işletmenin hissesini satın almak, o işletmenin bir kısmını (veya yüzde faizini) satın aldığınız anlamına gelir. Daha sonra o işletmenin gelecekteki kazancının bir kısmını almaya hak kazanırsınız.
+Bir işletmenin değerinin ne olduğunu anlamak, işletmenin gelecekte ne kadar kazanacağını tahmin etmeyi içerir.
+Kârdan size düşen paydan elde ettiğiniz kazanç, aynı miktardaki parayı risksiz 10 yıllık bir ABD devlet tahviline yatırdığınızda alacağınızdan daha fazla parayı size sağlamalıdır.
+4. Bölüm
+Hisse fiyatındaki değişim (volatilite) kısa vadede çoktur. Hisse fiyatlarına iki ila üç yıllık bir süre boyunca bakmak bize daha da geniş bir aralık verecektir. Peki bu büyük şirketlerin hisselerinin fiyatı dahi neden bu denli değişiyor? Bu şirketlerin bu kısa süre zarfında gelirleri mi değişiyor veya zarar mı ediyorlar? Hayır. Fiyatlar değişken çünkü trade ediliyorlar yani kısa süreliğine kazanç sağlamak amacı ile alınıp satınılıyorlar. Bu alım satım faaliyetinin tümüne borsa adı verilir.
+
+Belki de insanlar çok sık saçmalıyor. Gerçek şu ki, insanların neden çoğu şirketin hisselerini çok kısa sürelerde son derece farklı fiyatlarla alıp satmaya istekli olduklarını bilmek zorunda değilim. Sadece bunu yaptıklarını bilmem gerekiyor! Peki bu neden faydalı?
+
+Hiçbir zaman borsada işlem yapmanıza gerek yoktur. Yalnızca siz, Bay Market tarafından teklif edilen fiyatın çok düşük (bazı hisse satın almaya karar verebileceğiniz zaman) veya aşırı yüksek (sahip olduğunuz herhangi bir hisseyi Bay Market’e satmayı düşünebileceğiniz zaman) göründüğünde hareket etmeyi seçebilirsiniz.
+
+Asıl zorluk da burada başlıyor bir hissenin olması gereken tam değer bilinemez ancak bir aralık tahmin edilebilir.
+
+5. Bölüm
+Daha düşük bir getiri elde etmektense daha yüksek bir kazanç elde etmeyi tercih edersiniz. İşletmenin ödediğiniz fiyata göre daha az kazanmak yerine daha fazla kazanmasını tercih edersiniz!
+
+Hangi iş kulağa daha hoş geliyor? Her mağazasının geçen yıl 200.000 dolar kazandığı ve inşasının 400.000 dolara mal olduğu bir işletme olan Jason’ın Sakız Dükkanı mı, yoksa her mağazasının geçen yıl 10.000 dolar kazandığı ama aynı zamanda inşasının da 400.000 dolara mal olduğu Brokolici mi? Başka bir deyişle hangisi kulağa daha iyi geliyor: sermaye üzerinden yüzde 50 getiri elde eden bir işletme mi, yoksa yüzde 2,5 sermaye getirisi elde eden bir işletme mi? İkinci olan. Düşük sermaye getirisi sağlayan bir işletme yerine, yüksek sermaye getirisi sağlayan bir işletmeye sahip olmayı tercih edersiniz!
+
+Sadece iyi şirketleri (sermaye getirisi yüksek olanları) satın almaya ve bu şirketleri yalnızca pazarlıklı fiyatlarla (size yüksek kazanç getirisi sağlayan fiyatlarla) satın almaya devam ederseniz, sistematik olarak iyi şirketlerin çoğunu satın almaya son verebilirsiniz. Böylece en iyi yatırım profesyonellerini (tanıdığım en akıllı profesyoneller dahil) bile geride bırakacak yatırım getirileri elde edebilirsiniz. Birinci sınıf profesörlerin getirilerini geride bırakabilir ve şimdiye kadar yapılmış tüm akademik çalışmalardan daha iyi performans gösterebilirsiniz. Borsa ortalamalarının yıllık getirisini iki katından fazla artırabilirsiniz!
+
+6. Bölüm
+Yatırım alanının en saygın ve etkili öncülerinden biri olan, Bay Piyasa ve güvenlik marjı kavramlarını bize tanıtan büyük Benjamin Graham bile kendi sihirli formülünü yazdı ve kullandı. Kendisi buna sihirli formül demedi ama Graham çoğu bireysel yatırımcının, hatta çoğu profesyonel yatırımcının, işletmelere kendi başlarına değer vermek ve yatırım yapmak için gerekli tahminleri yapmakta ve gerekli analiz düzeyini gerçekleştirmekte zorlanacağını düşünüyordu. Graham, mantıklı olan ve geçmişte işe yarayan basit bir formülü paylaşarak bireysel yatırımcıların yüksek derecede güvenlikle mükemmel yatırım sonuçları elde edebileceklerini düşündü.
+
+Graham’ın formülü, hisse senedi fiyatları o kadar düşük olan şirketlerin satın alınmasını içeriyordu ki satın alma fiyatı, işletmenin kapatılması ve şirketin varlıklarının acil satışla satılmasıyla elde edilecek gelirden daha düşüktü (bu hisse senetlerini çeşitli isimlerle adlandırdı: pazarlık ihraçları, net cari varlık stokları veya net tasfiye değerinin altında satılan hisse senetleri (bargain issues, net-current-asset stocks, stocks selling below their net liquidation value) ). Graham, formülünün katı gerekliliklerini karşılayacak kadar ucuz 20 veya 30 şirketten oluşan bir grubu daha fazla analiz yapmadan satın alabilirseniz, “sonuçların oldukça tatmin edici olması gerektiğini söylemenin” “söylemesi gülünç derecede basit” göründüğünü belirtti. ” Ve o bu formülü 30 yıldan fazla bir süre başarıyla kullandı.
+
+Ne yazık ki formül birçok hisse senedinin ucuz fiyatlandırıldığı bir dönemde tasarlandı. 1929'daki borsa çöküşü ve ardından gelen Büyük Buhran’dan sonraki birkaç on yıl boyunca, hisse senetlerine yatırım yapmak son derece riskli bir iş olarak görülüyordu. Bu nedenle yatırımcılar çoğunlukla paralarını tekrar kaybetme korkusuyla hisse senetlerine yüksek değer vermekten kaçındılar. Her ne kadar Graham’ın formülü yıllar boyunca, özellikle de hisse senedi fiyatlarının özellikle düşük olduğu dönemlerde çalışmaya devam etse de, günümüz piyasalarında, Graham’ın orijinal formülünün katı gerekliliklerini karşılayan hisse senetleri varsa bile çok azdır.
+
+Graham, yatırımcıların bu ucuz hisse senetlerinden bir grup satın alarak birkaç kötü satın alma endişesi duymadan ve tek tek hisse senetleri üzerinde karmaşık analizler yapmadan güvenli bir şekilde yüksek getiri elde edebileceklerini öne sürdü.
+
+Hem getirisi yüksek, hem de sermaye getirisi yüksek şirketlerin hisselerini almaya karar verseydik sizce ne olurdu? Başka bir deyişle, yalnızca iyi işletmelerin (sermaye getirisi yüksek olanların) hisselerini, ancak bu hisselerin pazarlıklı fiyatlarla (bize yüksek kazanç getirisi sağlayacak şekilde fiyatlandırıldığı durumlarda) satın almaya karar verseydik ne olurdu? Kâr oldukça tatmin edici olurdu!
+
+Over the last 17 years, owning a portfolio of approximately 30 stocks that had the best combination of a high return on capital and a high earnings yield would have returned approximately 30.8% per year. Investing at that rate for 17 years, $11,000 would have turned into well over $1 million.
+
+Formül, ABD’nin büyük borsalarından birinde işlem gören en büyük 3.500 şirketin listesiyle başlıyor. Daha sonra bu şirketlere, sermaye getirilerine göre 1'den 3.500'e kadar bir sıralama veriliyor. İşletmesi en yüksek sermaye getirisine sahip olan şirkete 1. sıra, en düşük sermaye getirisi olan şirkete (muhtemelen para kaybeden bir şirket) 3.500. sıra veriliyor. Benzer şekilde, en iyi sermaye getirisi olan 232. şirkete 232. sıra atanıyor.
+
+Daha sonra formül aynı prosedürü takip eder ancak bu sefer sıralama kazanç getirisi kullanılarak yapılır. En yüksek kazanç getirisine sahip şirkete 1. sıra, en düşük kazanç getirisine sahip şirket ise 3.500'cü sırayı alır. Aynı şekilde 3.500 şirketten oluşan listemizde en yüksek getirisi olan 153. şirkete 153. sırada yer verilir.
+
+Son olarak formül yalnızca sıralamaları birleştirir. Formül, sermaye getirisi açısından en iyi sıralamada yer alan veya en yüksek kazanç getirisine sahip şirketi aramıyor. Bunun yerine formül, bu iki faktörün en iyi kombinasyonuna sahip şirketleri arar. Yani, sermaye getirisi açısından en iyi 232. ve kazanç getirisi açısından en yüksek 153. sırada yer alan bir şirket, toplam 385. (232 + 153) sırada yer alacaktır. Sermaye getirisi açısından 1. sırada yer alan ancak kazanç getirisi bakımından yalnızca 1.150. sırada yer alan bir şirket, toplam 1.151. (1.150 + 1) sırada yer alacaktır.
+
+
+“Piyasa ortalaması” getirisi, 3.500 hisse senedinden oluşan evrenimizin eşit ağırlıklı bir endeksidir. Endeksteki her hisse senedi getiriye eşit oranda katkı sağlıyor. S&P 500 endeksi, 500 büyük hisse senedinden oluşan piyasa ağırlıklı bir endekstir. Daha büyük hisse senetleri (en yüksek piyasa değerine sahip olanlar), küçük hisse senetlerine göre daha ağırlıklı olarak sayılır.
+7. Bölüm
+Bilgisayarlı bir hisse senedi toplama formülü muhteşem teorik getiriler sağlamış gibi görünse de, bu sonuçları gerçek dünyada kopyalamak oldukça zor olabilir. Örneğin sihirli formül, çok az kişinin satın alabileceği kadar küçük şirketleri seçmek olabilir. Çoğu zaman, küçük şirketlerin satın alınabilecek çok az hissesi vardır ve bu hisselere olan az miktardaki talep bile hisse fiyatlarını yükseltebilir. Durum böyleyse, formül kağıt üzerinde harika görünebilir, ancak gerçek dünyada harika sonuçların kopyalanması mümkün değildir. Bu yüzden sihirli formülün seçtiği şirketlerin oldukça büyük olması gerekiyor.
+
+Sihirli formülün, Bay Market’in uygun fiyatlarla “atmaya” karar verdiği 30 iyi şirketi bulabilmesi oldukça hoş olsa da, ya bulamazsa? Peki ya bu birkaç pazarlık fırsatı herhangi bir nedenle ortadan kaybolsaydı? Ya Bay Market biraz aklını başına toplayıp bize o birkaç inanılmaz indirimi teklif etmekten vazgeçerse? Eğer böyle olsaydı, gerçekten şansımız kalmazdı. O halde küçük bir deney yapalım.
+
+Sihirli formüle göre en iyi olan (yüksek sermaye getirisi ve yüksek kazanç getirisi olanlar yani işleri iyi olan ve indirimle bulunabilen şirketlerin) ilk 2500 hisseyi sıralayalım. Şimdi bu 2.500 şirketi sıralamalarına göre 10 eşit gruba ayırsak nasıl olur? Başka bir deyişle, Grup 1, sihirli formülün uygun fiyatlarla iyi şirketler olarak gördüğü 250 şirketi içerecektir; Grup 2, 250 şirketten oluşan ikinci en yüksek sıradaki grup olacaktır; Grup 3, üçüncü en yüksek sıradaki grup olacaktır. ve benzeri. Peki bunu 17 yıl boyunca her ay yapsak ne olur? Peki ya bu hisse senedi portföylerinin her birini (her biri yaklaşık 250 hisse senedi içeren) bir yıl boyunca tutsak ve getirilerini hesaplasak?
+
+Sihirli formül yalnızca 30 hisse senedi için işe yaramadığı ortaya çıkar. Sihirli formül sırayla işliyor gibi görünüyor. En iyi sıralamaya sahip hisse senetleri en iyi performansı gösterir ve sıralama düştükçe getiriler de düşer! Grup 1 Grup 2'yi yener, Grup 2 Grup 3'ü yener, Grup 3 Grup 4'ü yener ve bu şekilde Grup 1'den Grup 10'a kadar devam eder. En iyi sıralamaya sahip hisse senetlerimiz olan Grup 1, en kötü sıralamaya sahip olan Grup 10'u yener. hisse senetleri yılda yüzde 15'in üzerinde artmıştır.
+
+
+8. Bölüm
+Şu ana kadar sihirli formülümüzün her zaman işe yaradığına karar verdik, peki bu tarihten sonra işe yaramaya devam edecek mi? Kitap 2006'da yayımlandı ve biz hep 2004'e kadar olan süreye baktık. Ya herkes bildiği için işe yaramayı bırakırsa sihirli formülümüz?
+
+Sihirli formül artık (2024) %30'luk bileşik yıllık büyüme oranı getirisi sağlayamıyor ancak yine de bazı çalışmalar olumlu sonuçlar veriyor. 2003 ve 2015 yılları arasındaki piyasa performansına ilişkin bir geriye dönük test, sihirli formül stratejisinin yıllık getiri oranının %11,4 olduğunu, buna karşılık S&P 500'ün %8,7'lik getiri sağladığını ortaya çıkardı. “Bu, kıyaslama testinden daha iyi bir performans ancak Joel’in iddia ettiği kadar yüksek değil.”
+
+Sihirli formülün bir diğer dezavantajı da her yılın 5 ayında sihirli formül genel portföy pazarından kötü performans gösteriyor. Çoğu zaman sihirli formül 1+ yıldan aşağı sürede fonların ortalamasını aşamaz. Yıl bazında 4 yılda 1 kez her 6 dönemden birinde art arda iki yıldan fazla süre, hatta bir ara art arda 3 yıl boyunca genel pazardan kötü performans göstermiş. Ancak sihirli formülün amacı da uzun vaadede yatırım yapacak bireysel yatırımcıların fonlara para vermeden fonlardan daha çok kazanmasıdır.
+
+Eğer herkes sihirli formülü kullansaydı, yani iyi şirketleri ucuz fiyatlara alsaydı fiyat ucuz olmazdı bu da formülün başarısını olumsuz etkilerdi. Bu yüzden sihirli formül bir yıl hatta birkaç yıl başarı göstermez ancak daha sonra başarısı ortaya çıkar. Fon yöneticileri bu yüzden sihirli formülü kullanamazlar çünkü çoğu kimseler paralarını birkaç çeyrek veya yıl başarısızlıktan sonra çekerler. Bu da fon yöneticilerinin ya işten çıkarılmalarına ya da taktik değiştirmelerine sebep olur.
+
+9. Bölüm
+Uzun vadede bize para kazandıracak sihirli formülün arkasındaki ilkelerin yalnızca mantıklı değil, aynı zamanda zamansız görünmesi gerekir.
+
+Kârının bir kısmını veya tamamını çok yüksek bir getiri oranıyla yatırıma dönüştürme fırsatına sahip bir işletmeye sahip olmak, çok yüksek bir kazanç artışına katkıda bulunabilir!
+
+İyi işletmeler rekabeti çeker, kapitalizm böyle çalışır. Rekabet fiyatların ucuzlamasına veya hizmet kalite ve çeşidinin artmasına neden olur.
+
+10. Bölüm
+Risk hakkında düşünürken, işleri gereksiz yere karmaşık hale getirmek yerine, bir yatırım stratejisi hakkında bilmeniz gereken iki temel şey vardır:
+
+Uzun vadede bu stratejiyi takip ederek para kaybetme riski nedir?
+Seçtiğiniz stratejinin uzun vadede alternatif stratejilerden daha kötü performans gösterme riski nedir?
+Piyasa ortalamalarının getirisine eşit bir yatırım stratejisi tasarlamak oldukça kolay olduğundan (yine de çoğu profesyonel yatırımcı piyasa ortalamalarından bile daha kötü sonuçlar elde etmektedir), en azından bu iki basit strateji arasında makul bir karşılaştırma yapabiliriz.
+
+Bir şirkete değer verme konusunda iyi bir iş çıkarırsanız, Bay Market uzun vadede sizinle aynı fikirde olur.
+
+Bir şirketin hissesi olması gerekenden ucuzsa zeki ve bilgili yatırımcılar o hisseyi alacak ve fiyatını olması gereken fiyata yaklaştıracaktır. Ancak bu işlem bazen yavaş olabilir ve sizin de almanıza fırsat vericek bir zaman olabilir. Onun dışında şirketler eğer hisselerinin ucuz olduğunu düşünüyorsa kendi hisselerini geri alabilirler.
+
+11. Bölüm
+Ne aradığınıza dair hiçbir fikriniz olmadan tek tek hisse senetleri seçmek, yanan bir kibritle dinamit fabrikasında koşmaya benzer. Yaşıyor olabilirsin ama hâlâ bir aptalsın.
+
+Peki hisse senetlerini nasıl akıllıca seçebilirsiniz? Ne aramalısınız? Sihirli formülü uygulamamaya karar vermiş olsanız bile, kendinizi havaya uçurmamak için onu nasıl kullanabilirsiniz?
+
+Sihirli formül çalışırken önceki senenin değerini kullanır ve hiçbir zaman geçmiş değerler geleceklerin net göstergesi olamaz.
+
+İdeal olarak, geçen yılın kazançlarını formüle körü körüne bağlamaktan ise, normal bir yıldaki kazanç tahminlerini hesaba katmalıyız. Normal bir yıldan kasıt o şirkette, alanda veya ekonomide olumlu veya olumsuz bir farklılık olmaması durumudur. Geçen sene veya önümüzdeki sene farklı olabilir o yüzden 30 şirketin geçmiş 5 sene ve gelecek 5 sene ortalamalarına bakılmalıdır.
+
+Ancak bireysel hisse senetlerini seçmek için hala kazanma stratejisi geliştirmeyi umut eden az sayıda kişi için dikkate almanız gereken bir şey var. Profesyonel araştırma analistleri ve para yöneticileri bile doğru kazanç tahminleri yapmakta zorlanırlar. Bu profesyoneller için aynı anda 20 ya da 30 şirket için doğru tahminlerde bulunmak daha da zorlaşıyor. Senin için daha kolay olmayacak.
+
+Tüm uyarılara rağmen hala bireysel hisse senedi satın almak istiyorsanız, çok fazla tahminde bulunmaya çalışmayın bile. Hisse senedi yatırımlarınızı kelepir seviyelerde bulunan az sayıda “iyi” şirketle sınırlayın. Birkaç yıl sonraki normal kazançları tahmin edebilen ve işletmelere değer biçebilen az sayıda yatırımcı için, sadece bir avuç uygun fiyatlı hisse senedine sahip olmak en iyi yoldur. Genel bir kural olarak, eğer gerçekten iyi bir araştırma yapıyorsanız ve satın aldığınız şirketleri iyi anlıyorsanız, farklı sektörlerde sadece beş ila sekiz hisse senedine sahip olmak toplam portföyünüzün en az yüzde 80'ini güvenle oluşturabilir.
+
+İlginizi çeken hisse senetlerini körü körüne seçmek ya da sihirli formülün çıktılarını körü körüne kabul etmek yerine, her iki stratejiyi birleştirmeye ne dersiniz? Sihirli formülle başlayın ve en üst sıradaki hisse senetlerinin bir listesini oluşturun. Ardından, istediğiniz yöntemle favorilerinizden birkaçını seçin. Bununla birlikte, yalnızca sihirli formül tarafından sıralanan ilk 50 veya 100 hisse senedinden seçim yapmalısınız. Bu yöntemi kullanarak portföyünüze yine de en az 10 ila 30 hisse senedi koymalısınız.
+
+12. Bölüm
+Yatırım fonu, profesyonel bir para yöneticisi tarafından yönetilen bir yatırım fonudur. Yönetici genellikle aynı fonda 30 ila 200 arasında farklı menkul kıymetten oluşan çeşitli bir hisse senedi veya tahvil grubu seçer. Bu, küçük bir yatırımcının yatırım sermayesini geniş bir grup farklı yatırıma yayması için özellikle verimli bir yoldur.
+
+Birçok farklı şirket ve yatırım menkul kıymeti hakkında özel bir kavrayışa sahip olmak zordur. Sonuç olarak, düzinelerce hatta yüzlerce pozisyona sahip olmak genellikle ortalamanın üzerinde getiri sağlamaz. Ayrıca yatırım fonu yönetim şirketlerinin hizmetleri için bir ücret talep etmeleri gerekir. Temel matematik, ortalama getiri eksi ücretler, ortalamanın altında getiriye eşit olduğunu söyler. Şaşırtıcı olmayan bir şekilde, ücretler ve diğer masraflar çıkarıldıktan sonra, yatırım fonlarının büyük çoğunluğu zaman içinde piyasa ortalamalarını geçemez.
+
+Tamam o zaman ortalama üstü getiri sağlamış bir fonu kendime seçerim. Bu stratejiyle ilgili tek sorun, ortalama olarak bir fonun geçmişteki iyi yatırım sicili ile gelecekteki getirileri arasında bir ilişki olmamasıdır.
+
+Yatırım fonu yönetim şirketleri, her bir fona ne kadar para yatırıldığına bağlı olarak ödeme alırlar. Başarılı bir geçmişe sahip bir fon genellikle zaman içinde daha fazla para çekecektir. Bu parayı kabul etmek genellikle fonun ekonomik çıkarına olur. Bir fon büyüdüğünde, yöneticinin başarılı getirilere yol açan aynı stratejiyi sürdürmesi zor olabilir.
+
+Bunun yerine, bir hedge fona yatırım yapmayı düşünebilirsiniz. Bunlar genellikle çok zengin yatırımcılar için ayrılmış özel yatırım fonlarıdır. Ne yazık ki, çoğu durumda, yatırım yapacak en az 500.000 $’ınız yoksa, muhtemelen bu seçeneğiniz olmayacaktır. Yasalar gereği, çoğu hedge fonu yalnızca büyük miktarlarda para kaybetmeyi göze alabilen yatırımcıları kabul edebilir. Ancak bu şüpheli onura hak kazansanız bile, yapmanız mantıklı olmayabilir.
+
+Hedge fonlar, çoğu yatırım fonundan daha fazla esnekliğe sahip yatırım fonlarıdır. Yöneticiler fonun sermayesini ve ödünç alınan parayı çok çeşitli menkul kıymetleri satın almak için kullanabilir. Genel olarak, hisse senetlerinin, diğer menkul kıymetlerin veya tüm piyasa ortalamalarının yukarı veya aşağı hareket edeceğine dair bahis oynayabilirler. Çoğu yatırım fonu, yalnızca sahip oldukları menkul kıymetler yükseldiğinde para kazanmakla sınırlıdır. Bir hedge fonun, genellikle ödünç para yardımıyla birçok farklı menkul kıymet üzerinde yukarı veya aşağı bahis oynayabilmesi, çoğu standart yatırım fonuna göre büyük bir avantaj olarak görülür. Öyle de olabilir. Ancak çoğu hedge fon, yönetim altındaki varlıkların en az yüzde 1'i artı kârın yüzde 20'si gibi yüksek ücretler talep eder. Yüksek ücretlerin cazibesine kapılan binlerce yeni hedge fonun son birkaç yılda kurulduğuna şüphe yok. Çoğunun ücretlerini haklı çıkarma şansı olmayacak. Çok fazla iyi yönetici yoktur ve sizin de bir tane bulma şansınız oldukça düşüktür.
+
+İşte bu yüzden birçok insan sadece bir endeks fonuna yatırım yapmayı tercih ediyor. Endeks fonu, çok küçük bir ücret karşılığında genel piyasa getirisine eşit olmaya çalışan bir yatırım fonudur. Bu fonlar bir piyasa endeksi seçer (belki 500 büyük hisse senedinden oluşan S&P 500 endeksi veya biraz daha küçük 2.000 hisse senedinden oluşan Russell 2000 endeksi) ve bu endeksteki tüm hisse senetlerini satın alır. Bu strateji piyasayı yenmenize yardımcı olmasa da, en azından piyasa ortalamalarına yakın getiriler elde etmenize yardımcı olacaktır. Ayrıca, vergiden muaf bir emeklilik hesabı kullanarak yatırım yapmıyorsanız ve vergiler sizin için bir endişe kaynağıysa, bu strateji ödemeniz gereken vergi miktarını en aza indirecektir çünkü endeks fonları genellikle belirli bir menkul kıymet endeksten çıkarılmadıkça ellerindeki hisse senetlerini satmazlar. Bu genellikle herhangi bir yılda endeksteki menkul kıymetlerin yüzde 10'undan daha azdır.
+
+Her durumda söz konusu başarılı fonlar orjinal büyüklüklerinin çok katlarına ulaşırlar ve bu da yatırım avantajını ortadan kaldırır.
+
+O zaman market ortalaması üzerinde getiriyi az eforla yakalamanın geriye tek bir yöntemi kalıyor o da sihirli formül. Ancak sihirli formülün zor kısmı da arkadaşlar, uzmanlar, haber medyası ve Bay Market aksini söylese bile sihirli formülün hala mantıklı olduğuna inanmaya devam etmektir. 3 yıl üst üste market ortalamasının altında getirdikten sonra sonraki 2 yıl market ortalamasını aşacağınız bir senaryoda çoğu kişi ilk 3 yılda o stratejiden çoktan vazgeçer.
+
+13. Bölüm
+“Gelecekteki yatırımlarınızı yönlendirmek için sihirli formülü ve sihirli formülün ardındaki ilkeleri kullanmanın en iyi yatırım alternatiflerinizden biri olmaya devam edeceğine inanıyorum. İyi ve kötü dönemlerde sihirli formül stratejisine sadık kalabilirseniz, zaman içinde piyasa ortalamalarını kolayca geçeceğinize inanıyorum. Kısacası, herkes sihirli formülü öğrendikten sonra bile sonuçlarınızın sadece “oldukça tatmin edici” değil, biraz da şansla olağanüstü olmaya devam edeceğine inanıyorum.” — Joel Grenblatt
+
+Bir şirket hisselerinin alım ve satımından hiç pay almaz. Ancak bu alım satım şirketler için faydalıdır çünkü onlara hisselerini satabilecekleri bir market oluşmasını sağlar.
+
+Aslında, her dönem dersin ilk günü, tüm MBA öğrencilerime onlara sınırlı değeri olan beceriler öğretmek üzere olduğumu söylüyorum. Bu, öğrendiklerinden çok para kazanma potansiyeline sahip olmayacakları anlamına gelmiyor. Bu, zamanları ve zekaları için muhtemelen daha yüksek ve daha iyi kullanım alanları olduğu anlamına geliyor.
+
+Adım Adım Sihirli Formül
+Uyarı: Potansiyel risk ve getiriyi kendi döneminiz için hesaplamadan, beklentinizi belirlemeden, eski performansın geleceğin kanıtı olduğunu anlamadan başkalarının sözleri ile yatırım yapmayın.
+
+Öncelikle 20–30 hisselik bir portföy olmalıdır ki risk dağılsın. Aynı zamanda Amerika’da vergi avantajı sağlamak için satış yapacağınızda tam yıla az kala anaparanızı satarak geri alıyormuşsunuz sonra 1. yıl tamamlandıktan hemen sonra kalanını satıyormuşsunuz böylece vergi oranınızı düşük tutuyormuşsunuz.
+
+Testlerimizden elde ettiğimiz sonuçları yeniden üretmek için, yatırım yaptığımız ilk yıl boyunca sihirli formül portföyümüz üzerinde çalışmamız gerekecek. Bu, portföyümüzde 20 veya 30 hisse senedine ulaşana kadar her birkaç ayda bir portföyümüze 5 ila 7 hisse senedi eklemek anlamına gelir. Bundan sonra, portföyümüzdeki hisse senetleri bir yıllık elde tutma sınırına ulaştıkça, yalnızca bir yıldır elde tutulan 5 ila 7 hisse senedini değiştireceğiz.
+
+magicformulainvesting.com sitesi ücretsiz bir şekilde sihirli formüle uyan Amerikan hisselerini göstermesi için hazırlanmış.
+
+Şirket büyüklüğünü seçmek için talimatları izlenir (örneğin, piyasa değeri 50 milyon doların üzerinde veya 200 milyon doların üzerinde veya 1 milyar doların üzerinde olan şirketler vb.) Çoğu birey için, piyasa değeri 50 milyon veya 100 milyon doların üzerinde olan şirketler yeterli büyüklükte olmalıdır.
+En üst sıradaki sihirli formül şirketlerinin bir listesini elde etmek için talimatlar izlenir.
+En üst sıradaki beş ila yedi şirket satın alınır. Başlangıç olarak, ilk yıl boyunca yatırmayı düşündüğünüz paranın yalnızca yüzde 20 ila 33'ünü yatırılır (daha küçük miktarlarda sermaye (yüksek risk) için foliofn.com, buyandhold.com ve scottrade.com gibi düşük fiyatlı Web brokerleri başlangıç için iyi bir yer olabilir).
+Sihirli formül portföyünüze ayırmak üzere seçtiğiniz tüm parayı yatırana kadar her iki ila üç ayda bir tekrarlanır. Dokuz veya 10 ay sonra, bu işlem 20 ila 30 hisse senedinden oluşan bir portföy ile sonuçlanmalıdır (örneğin, her üç ayda bir yedi hisse senedi, her iki ayda bir beş veya altı hisse senedi).
+Her bir hisse senedini bir yıl tuttuktan sonra satılır. Vergiye tabi hesaplar için, kazananları bir yıldan birkaç gün fazla tuttuktan sonra, kaybedenleri ise bir yıldan birkaç gün daha az tuttuktan sonra satılır (daha önce açıklandığı gibi). Herhangi bir satıştan elde edilen geliri ve herhangi bir ek yatırım parasını, satılan şirketleri eşit sayıda yeni sihirli formül seçimleriyle değiştirmek için kullanılır.
+Bu süreç uzun yıllar boyunca devam ettirilir. Unutulmaması lazım, sonuçlar ne olursa olsun bu süreci en az üç ila beş yıl sürdürmeye kararlı olmalısınız. Aksi takdirde, büyük olasılıkla sihirli formül işe yarama şansı bulamadan uygulamaktan vazgeçeceksiniz.
+Eğer magicformulainvesting.com sitesini kullanmayacaksanız kendiniz aşağıdaki şekilde sihirli formüle göre hisseleri sıralayabilirsiniz:
+
+Aktif Kârlılığını (ROA) bir eleme kriteri olarak kullanın. Minimum ROA’yı %25 olarak belirleyin. (Bu, sihirli formül çalışmasındaki sermaye getirisinin yerini alacaktır.)
+Ortaya çıkan yüksek ROA hisse senetleri grubundan, en düşük Fiyat/Kazanç (F/K) oranlarına sahip hisse senetlerini eleyin. (Bu, sihirli formül çalışmasındaki kazanç getirisinin yerini alacaktır.)
+Tüm kamu hizmetleri ve finansal hisse senetlerini (yani yatırım fonları, bankalar ve sigorta şirketleri) listeden çıkarın.
+Tüm yabancı şirketleri listeden çıkarın. Çoğu durumda, bunlar hisse senedinin adından sonra “ADR” (“American Depository Receipt” için) son ekine sahip olacaktır.
+Bir hisse senedinin F/K oranı çok düşükse, örneğin 5 veya daha düşükse, bu bir önceki yılın veya kullanılan verilerin bir şekilde olağandışı olduğunu gösterebilir. Bu hisse senetlerini listenizden çıkarmak isteyebilirsiniz. Ayrıca geçen hafta kazançlarını açıklayan herhangi bir şirketi de elemek isteyebilirsiniz. (Bu, yanlış veya zamansız verilerin görülme sıklığını en aza indirmeye yardımcı olacaktır.)
+Sihirli Formül Var Olabilir Mi?
+Yıllar boyunca birçok çalışma piyasayı yenebilecek stratejileri belirlemeye çalışmıştır. Ancak bu çalışmalar genellikle aşağıdaki gerekçelerle eleştirilmiştir:
+
+Çalışma, piyasayı geride bıraktı çünkü hisse senetlerini seçmek için kullanılan veriler, seçimlerin yapıldığı sırada yatırımcılar için gerçekten mevcut değildi (diğer bir deyişle ileriye bakma yanlılığı).
+Çalışmada kullanılan veri tabanı “temizlendiği” ve daha sonra iflas eden şirketler hariç tutulduğu için çalışma yanlıydı, bu da çalışma sonuçlarının gerçekte olduğundan daha iyi görünmesine neden oldu (diğer bir deyişle hayatta kalma yanlılığı).
+Çalışma, veri tabanında listelenen fiyatlarla satın alınamayacak çok küçük şirketleri içermekte ve profesyonellerin satın alamayacağı kadar küçük şirketleri ortaya çıkarmaktadır.
+Çalışma, işlem maliyetleri hesaba katıldıktan sonra piyasadan önemli miktarda daha iyi performans göstermemiştir.
+Çalışma, bir şekilde piyasadan daha “riskli” hisse senetlerini seçti ve bu nedenle performans daha iyi oldu.
+Hisse senedi seçim stratejisi, işe yarayan bir tane bulunana kadar birçok farklı hisse senedi seçim stratejisinin geriye dönük test edilmesine dayanıyordu (diğer adıyla veri madenciliği).
+Piyasayı yenmek için kullanılan hisse senedi seçim stratejileri, çalışmada hisse senedi alımlarının yapıldığı sırada mevcut olmayan önceki “piyasayı yenen” çalışmalardan elde edilen bilgileri içeriyordu.
+Sihirli Formülün Teknik Detayları
+Sihirli formül şirketleri iki faktöre göre sıralar: sermaye getirisi ve kazanç getirisi. Bu faktörler birkaç farklı şekilde ölçülebilir. Bu kitaptaki çalışma için seçilen ölçümler aşağıda daha ayrıntılı olarak açıklanmaktadır:
+
+Sermaye Karlılığı = FVÖK/(Net İşletme Sermayesi + Net Duran Varlıklar)
+Sermaye getirisi, vergi öncesi faaliyet kazançlarının (EBIT) kullanılan maddi sermaye (Net İşletme Sermayesi + Net Sabit Varlıklar) oranı hesaplanarak ölçülmüştür. Bu oran, daha yaygın olarak kullanılan özkaynak karlılığı (ROE, kazanç/özkaynak) veya varlık karlılığı (ROA, kazanç/varlık) oranları yerine çeşitli nedenlerle kullanılmıştır. Şirketler farklı borç seviyeleri ve farklı vergi oranlarıyla çalıştıkları için raporlanan kazançlar yerine FVÖK (veya faiz ve vergi öncesi kazançlar) kullanılmıştır. Faiz ve vergi öncesi faaliyet kazancını veya FVÖK’ü kullanmak, farklı şirketlerin faaliyet kazançlarını vergi oranları ve borç seviyelerindeki farklılıklardan kaynaklanan çarpıklıklar olmadan görmemizi ve karşılaştırmamızı sağlamıştır. Her bir şirket için, faaliyetlerden elde edilen gerçek kazançları (FVÖK) bu kazançları üretmek için kullanılan varlıkların maliyetiyle (kullanılan maddi sermaye) karşılaştırmak mümkün olmuştur. Net İşletme Sermayesi + Net Sabit Varlıklar (veya kullanılan maddi sermaye), toplam varlıklar (ROA hesaplamasında kullanılır) veya öz sermaye (ROE hesaplamasında kullanılır) yerine kullanılmıştır. Buradaki fikir, şirketin işlerini yürütmek için gerçekte ne kadar sermayeye ihtiyaç duyulduğunu bulmaktır. Net işletme sermayesi kullanılmıştır çünkü bir şirket alacaklarını ve envanterini finanse etmek zorundadır (işi yürütmek için gerekli olmayan fazla nakit bu hesaplamanın dışında tutulmuştur) ancak borçları için para ayırmak zorunda değildir, çünkü bunlar etkili bir şekilde faizsiz bir kredidir (kısa vadeli faiz getiren borçlar bu hesaplama için cari borçlardan hariç tutulmuştur). İşletme sermayesi gereksinimlerine ek olarak, bir şirket aynı zamanda gayrimenkul, tesis ve ekipman gibi işini yürütmek için gerekli sabit varlıkların satın alımını da finanse etmelidir. Bu sabit varlıkların amortismana tabi tutulmuş net maliyeti, kullanılan maddi sermaye tahminine ulaşmak için daha önce hesaplanmış olan net işletme sermayesi gereksinimlerine eklenmiştir.
+
+2. Kazanç Getirisi = FVÖK/İşletme Değeri
+
+Kazanç getirisi, vergi öncesi faaliyet kazançlarının (EBIT) işletme değerine (özsermayenin piyasa değeri* + net faiz getiren borç) oranı hesaplanarak ölçülmüştür. Bu oran, daha yaygın olarak kullanılan P/E oranı (fiyat/kazanç oranı) veya E/P oranı (kazanç/fiyat oranı) yerine çeşitli nedenlerle kullanılmıştır. Kazanç getirisi kavramının arkasındaki temel fikir, basitçe bir işletmenin satın alma fiyatına göre ne kadar kazandığını bulmaktır. Sadece özsermaye fiyatı (yani toplam piyasa değeri, hisse fiyatı çarpı mevcut hisseler) yerine işletme değeri kullanılmıştır çünkü işletme değeri hem bir işletmedeki özsermaye hissesi için ödenen fiyatı hem de bir şirket tarafından işletme kazancı elde etmeye yardımcı olmak için kullanılan borç finansmanını dikkate alır. EBIT’i (faiz gideri ve vergi öncesi gerçek işletme kazancına bakar) kullanarak ve bunu işletme değeriyle karşılaştırarak, bir işletmenin tam satın alma fiyatı üzerinden vergi öncesi kazanç getirisini hesaplayabiliriz (yani, öz sermaye fiyatı artı üstlenilen herhangi bir borca göre vergi öncesi işletme kazancı). Bu, kazanç getirilerini karşılaştırırken farklı borç seviyelerine ve farklı vergi oranlarına sahip şirketleri eşit bir zemine oturtmamızı sağlar. Örneğin, 800.000 $ ipotek ve 200.000 $ özsermaye ile 1 milyon $’a satın alınan bir ofis binası söz konusu olduğunda, özsermaye fiyatı 200.000 $’dır ancak işletme değeri 1 milyon $’dır. Eğer bina 100.000 $ EBIT (faiz ve vergi öncesi kazanç) üretiyorsa, EBIT/EV veya vergi öncesi kazanç getirisi yüzde 10 olacaktır (100.000 $/ 1.000.000 $). Ancak borç kullanımı, sadece özsermaye fiyatı dikkate alındığında, aynı varlıkların satın alınmasından elde edilen görünür getirileri büyük ölçüde çarpıtabilir. Yüzde 40 kurumlar vergisi oranı ve 800.000 dolarlık ipotek için yüzde 6 faiz oranı varsayıldığında, 200.000 dolarlık özkaynak satın alma fiyatımızın vergi öncesi kazanç getirisi yüzde 26 olarak görünecektir.* Borç seviyeleri değiştikçe, özkaynak üzerindeki bu vergi öncesi kazanç getirisi değişmeye devam edecek, ancak binanın 1 milyon dolarlık maliyeti ve bu bina tarafından üretilen 100.000 dolarlık FVÖK değişmeden kalacaktır. Başka bir deyişle, F/K ve E/P borç seviyeleri ve vergi oranlarındaki değişikliklerden büyük ölçüde etkilenirken, FVÖK/EV etkilenmez.

@@ -1,0 +1,5 @@
+rag
+.env
+__pycache__
+*.pkl
+log.txt
