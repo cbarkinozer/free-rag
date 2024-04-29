@@ -44,7 +44,7 @@ def upload_document():
 
 def ask_question():
     username = st.text_input("Enter a username (just something that represents you):") 
-    api_key = st.text_input("Add your Google API key (if left blank, a request will be made for the default key, it is recommended to get your own key. Key acquisition video: [https://www.youtube.com/watch?v=brCkpzAD0gc]):", type="password")
+    api_key = st.text_input("Add your Google API key. It is free. Key acquisition video: [https://www.youtube.com/watch?v=brCkpzAD0gc]: (If you do not trust you can download and use the app in your local too)", type="password")
     question = st.text_area("Enter the question you want to ask in your document (the more detailed your question, the more accurate an answer you will get): ")
     
     if st.button("Ask"):
