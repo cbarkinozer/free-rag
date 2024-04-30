@@ -20,7 +20,7 @@ def upload_document():
     st.write("Several files can be uploaded, each upload crushes the old one. Depending on the number and size of files, the upload process may take a long time.")
 
     username = st.text_input("Enter a username (just something that represents you):")
-    uploaded_files = st.file_uploader("Upload your documents:", accept_multiple_files=True)
+    uploaded_files = st.file_uploader("Upload your documents (for now it only works with files that has .txt, .pdf or .docx extension):", accept_multiple_files=True)
 
     if uploaded_files:
         st.write("Number of uploaded files:", len(uploaded_files))
